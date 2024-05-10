@@ -653,6 +653,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Lead.Next_stage__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>LegalEntity.CompanyName</field>
         <readable>true</readable>
     </fieldPermissions>
