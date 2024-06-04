@@ -5,7 +5,7 @@
     <description>Primary Contact field</description>
     <externalId>false</externalId>
     <label>Primary contact</label>
-    <length>200</length>
+    <length>100</length>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <trackHistory>false</trackHistory>
