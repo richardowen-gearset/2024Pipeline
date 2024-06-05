@@ -258,12 +258,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Case.State__c</field>
+        <field>Case.Primary_contact__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Case.Primary_contact__c</field>
+        <field>Case.State__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
