@@ -5,8 +5,8 @@
     <complianceGroup>HIPAA</complianceGroup>
     <externalId>false</externalId>
     <label>Country</label>
-    <length>150</length>
-    <required>false</required>
+    <length>200</length>
+    <required>true</required>
     <trackFeedHistory>false</trackFeedHistory>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>
