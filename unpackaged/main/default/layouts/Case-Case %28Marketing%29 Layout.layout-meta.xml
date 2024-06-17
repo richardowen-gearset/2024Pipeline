@@ -99,6 +99,10 @@
                 <behavior>Edit</behavior>
                 <field>State__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
+                <field>Next_stage__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
