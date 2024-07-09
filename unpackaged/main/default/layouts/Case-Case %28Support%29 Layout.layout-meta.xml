@@ -80,7 +80,7 @@
                 <field>Type</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Edit</behavior>
+                <behavior>Required</behavior>
                 <field>State__c</field>
             </layoutItems>
             <layoutItems>
@@ -90,6 +90,22 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Primary_contact__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Pre_call_details__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Post_call_steps__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Next_stage__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Previous_stage__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
