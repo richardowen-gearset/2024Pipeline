@@ -247,13 +247,13 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
-        <field>Case.Country__c</field>
+        <editable>false</editable>
+        <field>Case.IsEscalated</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
-        <field>Case.IsEscalated</field>
+        <editable>true</editable>
+        <field>Case.Previous_stage__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
